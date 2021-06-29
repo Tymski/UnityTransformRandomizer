@@ -1,0 +1,14 @@
+{
+    "name": "com.tymski.transform-randomizer",
+    "displayName": "Transform Randomizer",
+    "description": "Unity tool that randomizes selected objects' location, rotation and scale. Tools/Tymski/TransformRandomizer",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tymski/UnityTransformRandomizer"
+    },
+    "author": {
+        "name": "Tymski"
+    }
+}
